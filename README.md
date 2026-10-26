@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="Traffic Light Smart Board Banner" src="https://github.com/user-attachments/assets/886dae83-fce5-4c8a-9e52-17a4ce0c9843" />
+<img width="2172" height="500" alt="Traffic Light Smart Board Banner" src="https://github.com/user-attachments/assets/886dae83-fce5-4c8a-9e52-17a4ce0c9843" />
 
 # Verkehrsinstitut Starick-Anleitung: 
 Windows-PC mit dem Smartboard verbinden
