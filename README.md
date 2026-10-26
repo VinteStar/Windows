@@ -1,11 +1,11 @@
 <img width="2172" height="724" alt="Traffic Light Smart Board Banner" src="https://github.com/user-attachments/assets/886dae83-fce5-4c8a-9e52-17a4ce0c9843" />
-
+_
 
 Anleitung: Windows-PC mit dem Smartboard verbinden
 
-
 Mit dieser Anleitung kannst du den Bildschirm deines Windows-PCs kabellos auf das Smartboard übertragen.
 So kannst du beispielsweise Präsentationen, Bilder oder andere Inhalte direkt auf dem Smartboard anzeigen.
+
 
 Schritt 1: Smartboard einschalten
 Schalte das Smartboard ein und tippe auf Bildschirmfreigabe.
