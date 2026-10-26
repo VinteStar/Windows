@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="DEIN_BILD_LINK.png" alt="Verkehrsinstitut Starick Banner" width="100%">
+</p>
+<img width="2172" height="724" alt="Traffic Light Smart Board Banner" src="https://github.com/user-attachments/assets/886dae83-fce5-4c8a-9e52-17a4ce0c9843" />
 # Verkehrsinstitut Starick
 Verbinden mit dem Whiteboard (Windows)
 
